@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 namespace Task4
 {
-
     class Student
     {
         public string Name { get; set; }
